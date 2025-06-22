@@ -2,8 +2,8 @@
 
 Eliminate manual invoice processing forever! This intelligent workflow automatically processes invoice PDFs, extracts key data, and updates databases in seconds. From PDF to database with 100% accuracy and unlimited scalability.
 
-![Workflow Demo Placeholder]()
-*Complete Invoice Processing Pipeline*
+![Workflow Demo Placeholder](https://github.com/PrajwalGpy/Invoice-Processing-Automation/blob/main/Screenshot%202025-06-20%20152108.png)
+
 
 ---
 
