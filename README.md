@@ -397,7 +397,7 @@ Help improve the Invoice Processing Automation:
 
 - **Developer:** Prajwal Gopal Poojary
 - **Email:** prajwalgpa@gmail.com
-- **Portfolio:** [prajwalgopalpoojary.netlify.app](https://prajwalgopalpoojary.me/)
+- **Portfolio:** [https://prajwalgopalpoojary.me/](https://prajwalgopalpoojary.me/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
